@@ -1,0 +1,16 @@
+{
+  "name": "Tydbit Custom Firmware",
+  "version": "1.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware_tidbyt_gen2_864749b8.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
