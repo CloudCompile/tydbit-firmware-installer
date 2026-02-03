@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "firmware_tidbyt_gen2_656f7f25.bin",
+          "path": "gen2_merged.bin",
           "offset": 0
         }
       ]
